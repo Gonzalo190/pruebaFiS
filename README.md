@@ -1,3 +1,3 @@
 # pruebaFiS
 
-Hola, esto es un mensaje de ejemplo en la linea 1.
+Esto es un mensaje de ejemplo en la linea 1.
