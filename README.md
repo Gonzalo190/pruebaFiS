@@ -1,4 +1,3 @@
 # pruebaFiS
 
-Esto es un mensaje de ejemplo en la linea 3.
-Hola, esto es un mensaje de ejemplo en la linea 4.
+Hola 👋! Esto es un ejemplo de resolución de conflictos.
