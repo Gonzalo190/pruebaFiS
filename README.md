@@ -1,4 +1,3 @@
 # pruebaFiS
 
-Chau
-Hola 👋!
+Proyecto de Prueba.
